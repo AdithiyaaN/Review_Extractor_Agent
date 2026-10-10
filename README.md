@@ -9,6 +9,9 @@
 5. **LLM #3 / Final Architect** — synthesizes evidence into a frozen plan.
 6. **Executor** — deterministic screenshot extraction.
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/4273ae9b-5446-468f-b989-7a339d470625" />
+
+
 The LLMs reason. Playwright proves.
 
 ## Install
